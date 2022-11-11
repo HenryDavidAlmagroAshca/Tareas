@@ -16,6 +16,7 @@
 2. MARCO TEÓRICO (RESUMEN)
 
 ![image](https://user-images.githubusercontent.com/116781677/201111042-a82dd376-6d0e-49d7-a604-7a93671b45e4.png)
+![image](https://user-images.githubusercontent.com/116781677/201235993-b0381b5a-97ca-4991-9a4b-35871f82552b.png)
 
 	
 3. RESOLUCIÓN DE EJERCICIOS O PROBLEMAS
@@ -207,4 +208,6 @@ https://youtu.be/oRbjqGmq1BM
 5. BIBLIOGRAFÍA
 
 	-Floyd, T. L. (2007). Principios de circuitos eléctricos (Octava ed.). México: Pearson Educación. Recuperado el Noviembre de 2022
+	
+	-https://www.mindmeister.com
 
